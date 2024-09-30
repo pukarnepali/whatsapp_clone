@@ -6,8 +6,11 @@ import 'package:whatsapp/common/routes/routes.dart';
 import 'package:whatsapp/common/theme/dark_theme.dart';
 import 'package:whatsapp/common/theme/light_theme.dart';
 import 'package:whatsapp/features/auth/controller/auth_controller.dart';
+import 'package:whatsapp/features/home/pages/call_home_page.dart';
+import 'package:whatsapp/features/home/pages/chat_home_page.dart';
 import 'package:whatsapp/features/home/pages/home_page.dart';
 import 'package:whatsapp/features/welcome/pages/welcome_page.dart';
+
 import 'package:whatsapp/firebase_options.dart';
 
 void main() async {
